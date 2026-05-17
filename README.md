@@ -33,7 +33,7 @@
 
 1. 克隆本项目到本地：
    ```bash
-   git clone https://github.com/loutaiyue/English-Word-Notebook.git
+   git clone https://github.com/loutaiyue/EnglishWordNotebook.git
    ```
 2. 前往 [百度翻译开放平台](https://api.fanyi.baidu.com/) 注册账号并申请你自己的 `APP ID` 和 `密钥`。
 3. 在代码中找到对应的 API 配置位置，将你的 `APP ID` 和 `密钥` 填入。
