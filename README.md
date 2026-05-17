@@ -1,4 +1,4 @@
-# 📖 英语单词笔记本 (English Word Notebook)
+# 📖 英语单词笔记本 (loutaiyue/English-Word-Notebook)
 
 一款简洁、优雅且实用的 Android 英语单词查询与记录应用。随时随地查询生词，并加入收藏夹方便日后复习。
 
@@ -33,7 +33,7 @@
 
 1. 克隆本项目到本地：
    ```bash
-   git clone https://github.com/你的用户名/你的仓库名.git
+   git clone https://github.com/loutaiyue/English-Word-Notebook.git
    ```
 2. 前往 [百度翻译开放平台](https://api.fanyi.baidu.com/) 注册账号并申请你自己的 `APP ID` 和 `密钥`。
 3. 在代码中找到对应的 API 配置位置，将你的 `APP ID` 和 `密钥` 填入。
