@@ -15,7 +15,7 @@
 <!-- 请将下面的图片链接替换为你上传到 GitHub 后的真实图片链接 -->
 | 浅色模式 (Light Mode) | 深色模式 (Dark Mode) |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/d9e4992a-3911-41a4-8822-7bb3e98ac5ea" width="300"/> | <img src="https://github.com/user-attachments/assets/00470552-6e9e-4ec9-bff3-ac99119e851c" width="300"/> |
+| <img src="https://github.com/user-attachments/assets/0867e5c8-96a6-41bb-babc-58f580024eaf" width="300"/> | <img src="https://github.com/user-attachments/assets/668b827a-db39-4f46-bf8e-1077cc887139" width="300"/> |
 
 ## 📥 下载与安装
 
